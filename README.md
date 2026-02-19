@@ -12,4 +12,4 @@ Assignment: In Class Activity #5
 - Win/Loss logic
 
 # ScreenShot 
-![Commit Screenshot](commets.png)
+![Commit Screenshot](commits.png)
